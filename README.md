@@ -1,4 +1,4 @@
-# Image-Sharpening-using-Distillation-Knowledge
+# Image-Sharpening-using-Knowledge-Distillation
 
 This project implements a deep learning model to *sharpen blurred images* using a *lightweight U-Net architecture* enhanced with *edge detection and segmentation maps. The model is designed for **efficient deployment* on low-resource devices and supports visual quality evaluation using *SSIM* and *PSNR* metrics.
 
